@@ -528,7 +528,7 @@ always @(*)
     
 endmodule
 
-module lipsi_processor(
+module tt_um_lipsi_processor_shiva(
     input clk, reset,
     input [3:0] N,
     output [7:0] acc,
